@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="pallavi.css"?>
+<main>
+<students>
+<student>
+<usn> USN:4vv15cs410</usn>
+<name>Name:Pallavi</name>
+<college>College:VVCE</college>
+<branch>Branch:CSE</branch>
+<year>Year:2020</year>
+<email>Email:pallavipallu@gmail.com</email>
+</student>
+
+<student>
+<usn> USN:4vv15cs414</usn>
+<name>Name:Sahana</name>
+<college>College:VVCE</college>
+<branch>Branch:CSE</branch>
+<year>Year:2020</year>
+<email>Email:sahana@gmail.com</email>
+</student>
+
+<student>
+<usn> USN:4vv15cs416</usn>
+<name>Name:Rakshita</name>
+<college>College:VVCE</college>
+<branch>Branch:CSE</branch>
+<year>Year:2020</year>
+<email>Email:rakshitans@gmail.com</email>
+</student>
+
+
+</students>
+</main>
